@@ -1,0 +1,17 @@
+<h3> RF3 </h3>
+<p> N sitios donde hay mayor demanda de viajes en cierta franja horaria y día de la semana. </p>
+<br>
+<p> Ingrese el número de sitios (N)</p>
+<input #n 
+  (keyup.enter)="setN(n.value)"/>
+<p>{{numSitios}}</p>
+
+<p> Ingrese el inicio de la franja horaria en el siguiente formato HH:mm:ss </p>
+<input #incio 
+  (keyup.enter)="setInicio(incio.value)"/>
+<p>{{horaInicio}}</p>
+
+<p> Ingrese el fin de la franja horaria en el siguiente formato HH:mm:ss</p>
+<input #fin 
+  (keyup.enter)="setFin(fin.value)"/>
+<p>{{horaFin}}</p>

@@ -1,0 +1,12 @@
+<h3> RF1 </h3>
+<p> Encuentre cuál es el sitio de la ciudad hacia el cual se dirigen la mayor cantidad de vehículos en una cierta franja de horas del día, para cada día de la semana. </p>
+<br>
+<p> Ingrese el inicio de la franja horaria en el siguiente formato HH:mm:ss </p>
+<input #incio 
+  (keyup.enter)="setInicio(incio.value)"/>
+<p>{{horaInicio}}</p>
+
+<p> Ingrese el fin de la franja horaria en el siguiente formato HH:mm:ss</p>
+<input #fin 
+  (keyup.enter)="setFin(fin.value)"/>
+<p>{{horaFin}}</p>

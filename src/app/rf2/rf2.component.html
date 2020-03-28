@@ -1,0 +1,14 @@
+<h3> RF2 </h3>
+<p> Encuentre cuál es el valor mínimo, máximo y promedio de un viaje, para los viajes realizados cierto día de la semana, en un mes dado del año, sobre todos los años del dataset </p>
+<br>
+<p> Ingrese el día de la semana </p>
+<select name="miselect" ng-model="diaSemana">
+<option [value]="item" *ngFor="let item of lista">{{item}}</option>
+</select>
+<p>{{diaSemana}}</p>
+
+<p> Ingrese el mes</p>
+<select name="miselect" ng-model="mesConsulta">
+<option [value]="item" *ngFor="let item of lista2">{{item}}</option>
+</select>
+<p>{{mesConsulta}}</p>
