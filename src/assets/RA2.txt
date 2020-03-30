@@ -1,0 +1,103 @@
+2001,Winter,Y,15
+2002,Winter,Y,22
+2003,Winter,Y,19
+2008,Winter,Y,482
+2009,Fall,Y,1467763
+2009,Hallowen,Y,542854
+2009,Spring,Y,1890006
+2009,Summer,Y,1396853
+2009,Thanksgiving,Y,2876172
+2009,Valentine's day,Y,539684
+2009,Winter,Y,162183512
+2010,Fall,Y,1458254
+2010,Hallowen,Y,476203
+2010,Spring,Y,1974708
+2010,Summer,Y,1549688
+2010,Thanksgiving,Y,2808457
+2010,Valentine's day,Y,488688
+2010,Winter,Y,160245155
+2011,Fall,Y,1513253
+2011,Hallowen,Y,454335
+2011,Spring,Y,2026089
+2011,Summer,Y,1241547
+2011,Thanksgiving,Y,2943196
+2011,Valentine's day,Y,499431
+2011,Winter,Y,168219357
+2012,Fall,Y,1479269
+2012,Hallowen,Y,289239
+2012,Spring,Y,2097972
+2012,Summer,Y,1456710
+2012,Thanksgiving,Y,3325661
+2012,Valentine's day,Y,531883
+2012,Winter,Y,169363590
+2013,Fall,Y,1412223
+2013,Hallowen,Y,489417
+2013,Spring,Y,1993466
+2013,Summer,Y,1403838
+2013,Thanksgiving,Y,2967625
+2013,Valentine's day,Y,527476
+2013,Winter,Y,164385714
+2014,Fall,Y,915265
+2014,Spring,Y,1895270
+2014,Summer,Y,1243683
+2014,Thanksgiving,Y,2642900
+2014,Valentine's day,Y,472229
+2014,Winter,Y,143712527
+2015,Fall,G,1176342
+2015,Hallowen,G,441582
+2015,Summer,G,1115154
+2015,Thanksgiving,G,2279419
+2015,Valentine's day,G,501397
+2015,Winter,G,88692500
+2016,Fall,G,1055638
+2016,Hallowen,G,310480
+2016,Spring,G,1535085
+2016,Summer,G,979572
+2016,Summer,Y,175
+2016,Thanksgiving,G,2003494
+2016,Valentine's day,G,402448
+2016,Winter,G,124872414
+2016,Winter,Y,5737
+2017,Fall,G,981755
+2017,Hallowen,G,294351
+2017,Spring,G,1335693
+2017,Summer,G,847502
+2017,Thanksgiving,G,1956589
+2017,Valentine's day,G,343943
+2017,Winter,G,107737100
+2018,Fall,G,809789
+2018,Fall,Y,12656
+2018,Hallowen,G,268807
+2018,Hallowen,Y,4464
+2018,Spring,G,1090483
+2018,Spring,Y,89
+2018,Summer,G,792981
+2018,Summer,Y,4130
+2018,Thanksgiving,G,1830481
+2018,Thanksgiving,Y,28340
+2018,Valentine's day,G,321665
+2018,Winter,G,97197430
+2018,Winter,Y,442072
+2019,Fall,G,6
+2019,Hallowen,G,2
+2019,Spring,G,958419
+2019,Spring,Y,3936
+2019,Summer,G,9
+2019,Valentine's day,G,268867
+2019,Valentine's day,Y,1983
+2019,Winter,G,42974976
+2019,Winter,Y,250372
+2020,Winter,G,11
+2021,Winter,G,1
+2026,Winter,G,2
+2029,Winter,G,2
+2031,Winter,G,2
+2032,Winter,G,1
+2033,Winter,G,3
+2037,Winter,G,1
+2038,Winter,G,4
+2041,Winter,G,3
+2042,Winter,G,1
+2053,Spring,G,1
+2053,Winter,G,1
+2084,Winter,G,8

@@ -2,9 +2,10 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { ReactiveFormsModule } from '@angular/forms';
-
+import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
+import { ChartsModule, WavesModule  } from 'angular-bootstrap-md';
 
 import { rf1Component } from './rf1/rf1.component';
 import { rf2Component } from './rf2/rf2.component';
@@ -17,6 +18,9 @@ import { MainPageComponent } from './main-page/main-page.component';
   imports: [
     BrowserModule,
     ReactiveFormsModule,
+     HttpClientModule,
+     ChartsModule,
+     WavesModule,
     RouterModule.forRoot([
       {path: '', component: MainPageComponent},
       {path: 'rf1', component: rf1Component},
